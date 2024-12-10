@@ -1,5 +1,7 @@
 Next.js AppRouterでAPI通信をするテスト
 
 ・getStaticPropsは使えない
+
 ・ServerComponentでfetch
+
 ・ServerComponentで事前fetchしたものを受け取りつつ、Client側でUseEffectで定期的にfetch
